@@ -1,1 +1,0 @@
-# tapo-camera-hanger
